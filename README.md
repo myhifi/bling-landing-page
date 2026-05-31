@@ -22,4 +22,4 @@ This project was built with a real-world freelance mindset, prioritizing blister
 *   **Fonts:** Cairo (Google Fonts via preconnect optimization)
 
 ## ✒️ Author
-Developed with ❤️ by **Bash-mohandes**
+Developed with ❤️ by **Mohamed Yehia**
