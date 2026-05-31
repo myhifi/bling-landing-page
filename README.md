@@ -1,7 +1,7 @@
 # Bling Luxury Landing Page 💎
 
 [![Live Demo](https://img.shields.io/badge/demo-live_link-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myhifi.github.io/bling-landing-page/)
-[![GitHub license](https://img.shields.io/github/license/myhifi/bling-landing-page?style=for-the-badge)](https://github.com/myhifi/bling-landing-page/blob/main/LICENSE)
+[![Bling Landing Page Preview](./preview.png)](https://myhifi.github.io/bling-landing-page/)
 A premium, high-performance, and SEO-optimized landing page designed and developed for **Bling**, an exclusive women's accessories and jewelry brand. 
 
 This project was built with a real-world freelance mindset, prioritizing blistering load speeds, clean semantic structure for search engines, and an effortless content-updating workflow.
